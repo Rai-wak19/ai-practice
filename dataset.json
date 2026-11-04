@@ -1,0 +1,35 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "68 kg",
+      "goal": "High-carbohydrate fueling for marathon endurance training",
+      "restrictions": "Strict vegan"
+    },
+    "solution_criteria": [
+      "The meal plan is compact and concise.",
+      "The meal plan is designed for exactly 1 day.",
+      "The meal plan strictly adheres to a vegan diet.",
+      "The meal plan provides a high carbohydrate intake suitable for a marathon runner."
+    ],
+    "task_description": "write a compact, concise 1 day meal plan for single athlete",
+    "scenario": "Testing with a high-endurance marathon runner who follows a strict vegan diet and needs high carbohydrate intake."
+  },
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "95 kg",
+      "goal": "High-protein powerlifting nutrition on a budget",
+      "restrictions": "Severe peanut allergy"
+    },
+    "solution_criteria": [
+      "Provides a 1-day meal plan tailored for a powerlifter",
+      "Strictly excludes peanuts and peanut products due to the severe allergy",
+      "Features high-protein meals suitable for heavy strength training",
+      "Employs budget-friendly ingredients",
+      "Is compact and concise"
+    ],
+    "task_description": "write a compact, concise 1 day meal plan for single athlete",
+    "scenario": "Testing with a powerlifter who has a severe peanut allergy and requires a high-protein, budget-friendly meal plan."
+  }
+]
